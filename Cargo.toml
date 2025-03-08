@@ -3,6 +3,10 @@ name = "peding_unwind"
 version = "0.1.0"
 edition = "2024"
 keywords = ["unwind", "panic", "async", "linear"]
+description = "A library for converting unwindings into `pending`."
+repository = "https://github.com/Ddystopia/peding_unwind"
+license = "MIT OR Apache-2.0"
+authors = ["Ddystopia <alexanderbabak@proton.me>"]
 
 [dependencies]
 pin-project-lite = "0.2.16"
