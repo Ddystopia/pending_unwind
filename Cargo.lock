@@ -3,7 +3,7 @@
 version = 4
 
 [[package]]
-name = "peding_unwind"
+name = "pending_unwind"
 version = "0.1.0"
 dependencies = [
  "pin-project-lite",
