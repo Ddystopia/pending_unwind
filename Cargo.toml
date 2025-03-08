@@ -1,0 +1,8 @@
+[package]
+name = "peding_unwind"
+version = "0.1.0"
+edition = "2024"
+keywords = ["unwind", "panic", "async", "linear"]
+
+[dependencies]
+pin-project-lite = "0.2.16"
